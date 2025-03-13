@@ -6,3 +6,5 @@
   - Web Exploitation
   - Vulnerability Exploitation (CVE)
   - Malware Creation and Injection
+
+![image](https://github.com/user-attachments/assets/8f7cea3d-aa25-4991-84b3-c4a8f0b7fe0c)
