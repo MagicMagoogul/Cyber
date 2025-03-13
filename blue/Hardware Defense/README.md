@@ -1,4 +1,4 @@
-# This is the directory for hardware defenese learning and notes. 
+# This is the directory for hardware defense learning and notes. 
     - Hardware Encryption
     - Hardware BUS Hardening
     - UART and JTAG defence
